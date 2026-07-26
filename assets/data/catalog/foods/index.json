@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "id": "proteins",
+      "name": "Proteins",
+      "arabicName": "البروتينات",
+      "icon": "🍗",
+      "file": "proteins.json"
+    },
+    {
+      "id": "carbs",
+      "name": "Carbohydrates",
+      "arabicName": "النشويات",
+      "icon": "🍚",
+      "file": "carbs.json"
+    },
+    {
+      "id": "vegetables",
+      "name": "Vegetables",
+      "arabicName": "الخضروات",
+      "icon": "🥦",
+      "file": "vegetables.json"
+    },
+    {
+      "id": "fruits",
+      "name": "Fruits",
+      "arabicName": "الفواكه",
+      "icon": "🍎",
+      "file": "fruits.json"
+    },
+    {
+      "id": "dairy",
+      "name": "Dairy",
+      "arabicName": "الألبان",
+      "icon": "🥛",
+      "file": "dairy.json"
+    },
+    {
+      "id": "healthyFats",
+      "name": "Healthy Fats",
+      "arabicName": "الدهون الصحية",
+      "icon": "🥜",
+      "file": "healthyFats.json"
+    }
+  ]
+}
